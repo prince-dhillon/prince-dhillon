@@ -1,5 +1,8 @@
 # 💫 About Me:
-I m currently studying in chitkara university<br>I m currently doing computer science engineering with specialisation in Artificial intelligence and machine learning <br>I am in my learning phase
+🎓 CSE (AI & ML) student at Chitkara University<br>
+🤖 Passionate about Artificial Intelligence, Machine Learning, and software development<br>
+📚 Currently learning and improving my coding and problem-solving skills<br>
+💡 Believer in consistency, practice, and continuous growth.
 
 
 ## 🌐 Socials:
